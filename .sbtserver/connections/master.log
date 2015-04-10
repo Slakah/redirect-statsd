@@ -1,0 +1,7 @@
+New log file opened at Fri Apr 10 11:14:18 BST 2015 by 2534@mc-s083339.local
+Taking next connection to: 52998
+New client attempting to connect on port: 52999-52998
+  Address = /0:0:0:0:0:0:0:1:52998
+This client on port 52999 has uuid 9eee973f-00e4-4add-9c4c-5f96006b0abc configName activator humanReadableName Activator protocolVersion 1 featureTags Vector()
+Connected Clients: activator-9eee973f-00e4-4add-9c4c-5f96006b0abc
+Taking next connection to: 52998
